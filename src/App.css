@@ -16,11 +16,9 @@
 }
 .pin{
   position: absolute;
-  width: 10px;
-  height: 10px;
   background-color:red;
   text-indent:-100000px;
-  border-radius:
+  border-radius:50%;
 }
 
 /* .logo {
